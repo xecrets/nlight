@@ -1,4 +1,7 @@
 # NLight
+*** THIS IS A STRIPPED DOWN DEPENDENCY FREE FRORK of the NLight Toolbox. It essentially only contains the CSV
+file parsing functionality, and the support required for it. ***
+
 Toolbox for .NET projects
 
 ## Features
